@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Marco Rivero Florencio [MarcoRiv27]
+# ¡Hola! 👋 Soy Marco Rivero Florencio 
 
 ![Banner de Bienvenida](https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Bienvenido+a+mi+Perfil+de+GitHub)
 
