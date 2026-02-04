@@ -47,13 +47,13 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 ### 📁 [Nombre del Proyecto 1]
 > Breve descripción de tu proyecto más importante
 
-- 🔗 [Ver repositorio](https://github.com/TU_USUARIO/nombre-proyecto)
+- 🔗 [Ver repositorio](https://github.com/MarcoRiv27/nombre-proyecto)
 - 💻 Tecnologías: HTML, CSS, JavaScript
 
 ### 📁 [Nombre del Proyecto 2]
 > Descripción de otro proyecto relevante
 
-- 🔗 [Ver repositorio](https://github.com/TU_USUARIO/nombre-proyecto-2)
+- 🔗 [Ver repositorio](https://github.com/MarcoRiv27/nombre-proyecto-2)
 - 💻 Tecnologías: Python, Bootstrap
 
 ---
@@ -77,7 +77,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 
 ## 📈 Actividad en GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoRiv27&theme=radical)
 
 ---
 
@@ -89,7 +89,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 
 <div align="center">
   
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=Visitas+al+Perfil)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=MarcoRiv27&color=blueviolet&style=flat-square&label=Visitas+al+Perfil)
 
 **⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐**
 
