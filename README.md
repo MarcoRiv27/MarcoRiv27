@@ -77,7 +77,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 
 ## 📈 Actividad en GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcrif27&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoRiv27)
 
 ---
 
