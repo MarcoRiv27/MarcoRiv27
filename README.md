@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Marco Rivero Florencio [MarcoRiv27]
 
-![Banner de bienvenida](https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Bienvenido+a+mi+Perfil+de+GitHub)
+![MarcoRiv27](https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Bienvenido+a+mi+Perfil+de+GitHub)
 
 ## 🚀 Sobre Mí
 
