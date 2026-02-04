@@ -10,7 +10,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 - 🌱 Aprendiendo: **HTML5, Java, MySQL, Oracle y JavaScript**
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**
 - 💬 Pregúntame sobre: **[Tengo un nivel medio de Ingles, tengo un nivel avanzado en la logistica asociada a las operaciones de mantenimiento y configuración de sistemas microinformaticos]**
-- 📫 Cómo contactarme: **riveroflorenciom@gmial.com**
+- 📫 Cómo contactarme: **riveroflorenciom@gmail.com**
 - ⚡ Dato curioso: **[Soy bastante trabajador]**
 
 ---
