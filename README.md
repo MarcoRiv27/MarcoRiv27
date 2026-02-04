@@ -44,16 +44,16 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 
 ## 🏆 Mis Proyectos Destacados
 
-### 📁 [Nombre del Proyecto 1]
+### 📁 [Nombre del cloud_edge_daw]
 > Breve descripción de tu proyecto más importante
 
-- 🔗 [Ver repositorio](https://github.com/MarcoRiv27/nombre-proyecto)
+- 🔗 [Ver repositorio](https://github.com/MarcoRiv27/cloud_edge_daw)
 - 💻 Tecnologías: HTML, CSS, JavaScript
 
-### 📁 [Nombre del Proyecto 2]
+### 📁 [Nombre del ejerciciosENDES]
 > Descripción de otro proyecto relevante
 
-- 🔗 [Ver repositorio](https://github.com/MarcoRiv27/nombre-proyecto-2)
+- 🔗 [Ver repositorio](https://github.com/MarcoRiv27/ejerciciosENDES)
 - 💻 Tecnologías: Python, Bootstrap
 
 ---
